@@ -5,7 +5,7 @@ import re
 import random
 
 # ====== SETTINGS ======
-FILE_PATH = "bertopic_clustered_output.csv"  # Update if needed
+FILE_PATH = "https://drive.google.com/file/d/1SeAh_-UqzTw11xtkQbLVMbxyKNJhixte/view?usp=sharing"  # Update if needed
 
 # ====== LOAD DATA ======
 @st.cache_data

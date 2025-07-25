@@ -5,7 +5,7 @@ import re
 import random
 
 # ====== SETTINGS ======
-FILE_PATH = "https://drive.google.com/file/d/1SeAh_-UqzTw11xtkQbLVMbxyKNJhixte/view?usp=sharing"  # Update if needed
+FILE_PATH = "https://drive.google.com/uc?id=1SeAh_-UqzTw11xtkQbLVMbxyKNJhixte"
 
 # ====== LOAD DATA ======
 @st.cache_data
